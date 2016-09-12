@@ -5,3 +5,5 @@ Bash script for make your bash more powerfull.
 ```sh
 $ source ~/.powerterminal.sh
 ```
+
+Credits to https://github.com/riobard/bash-powerline for git code part.
